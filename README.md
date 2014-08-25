@@ -1,4 +1,4 @@
 Year1
 =====
 
-MATLAB code for GPS science fair year 1.
+Final MATLAB Code for GPS science project, year 2: http://sciencefairgpsathens.edublogs.org/. 
